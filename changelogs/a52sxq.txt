@@ -1,6 +1,12 @@
 Changelogs:
 ==========
 
+
+10/01/2026
+---------
+-DT: adapt to QPR1
+-framework: iclude Cpu boost
+
 08/01/2026
 ----------
 
