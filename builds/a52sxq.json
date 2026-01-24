@@ -1,13 +1,14 @@
 {
     "response": [
         {
-            "datetime": 1768102815,
-            "filename": "axion-2.3-TELOS-20260111-UNOFFICIAL-GMS-a52sxq.zip",
-            "id": "b35388627e7a9a9e2d86673c532ae641",
+            "datetime": 1769247005,
+            "filename": "axion-2.3-TELOS-20260124-UNOFFICIAL-GMS-a52sxq.zip",
+            "id": "2be00536695128246e51ab4ec833be93",
             "romtype": "UNOFFICIAL",
-            "size": 1967009278,
-            "url": "https://sourceforge.net/projects/galaxy-a52s-update/files/Axion/axion-2.3-TELOS-20260111-UNOFFICIAL-GMS-a52sxq.zip/download",
+            "size": 1975630903,
+            "url": "https://sourceforge.net/projects/galaxy-a52s-update/files/Axion/axion-2.3-TELOS-20260124-UNOFFICIAL-GMS-a52sxq.zip/download",
             "version": "2.3"
         }
     ]
 }
+

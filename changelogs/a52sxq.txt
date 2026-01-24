@@ -2,10 +2,16 @@ Changelogs:
 ==========
 
 
+24/01/2026
+----------
+-Change default browser to Via
+-Include KSUN v3.0.0 
+-Synced with latest source
+
 10/01/2026
 ---------
 -DT: adapt to QPR1
--framework: iclude Cpu boost
+-framework: included Cpu boost
 
 08/01/2026
 ----------
