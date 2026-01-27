@@ -2,18 +2,25 @@ Changelogs:
 ==========
 
 
+26/01/2026
+----------
+ROM v2.4:
+- Synced with latest upstream sources
+- General improvements and stability fixes
+- KSUN include by default
+
 24/01/2026
 ----------
--Change default browser to Via
--Include KSUN v3.0.0 
--Synced with latest source
+- Change default browser to Via
+- Include KSUN v3.0.0 
+- Synced with latest source
 
 10/01/2026
 ---------
--DT: adapt to QPR1
--framework: included Cpu boost
+- DT: adapt to QPR1
+- Framework: included Cpu boost
 
 08/01/2026
 ----------
 
--Test Unofficial OTA
+- Test Unofficial OTA
