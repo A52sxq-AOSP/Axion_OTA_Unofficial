@@ -2,6 +2,13 @@ Changelogs:
 ==========
 
 
+31/01/2026
+---------
+- Included LMC Gcam ( Los camera very bad )
+- Sybced with latest upstream sources
+- KSUN v3.0.0 included by default
+- Fix blur issue
+
 26/01/2026
 ----------
 ROM v2.4:
